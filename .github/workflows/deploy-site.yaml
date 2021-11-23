@@ -22,7 +22,7 @@ jobs:
         run: hugo --minify
 
       - name: Key
-        run: cp dev.key ~/.ssh/id_rsa
+        run: mv dev.key ~/.ssh/id_rsa
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
