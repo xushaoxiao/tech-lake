@@ -21,7 +21,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Key
+      - name: Dir
+        run: mkdir -r ~/.ssh
+      - name: mv
         run: mv dev.key ~/.ssh/id_rsa
 
       - name: Deploy
