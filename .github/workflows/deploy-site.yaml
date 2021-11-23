@@ -22,7 +22,7 @@ jobs:
         run: hugo --minify
 
       - name: Dir
-        run: mkdir -r ~/.ssh
+        run: mkdir -p ~/.ssh
       - name: mv
         run: mv dev.key ~/.ssh/id_rsa
 
