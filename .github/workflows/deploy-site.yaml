@@ -19,12 +19,12 @@ jobs:
           hugo-version: '0.65.3'
 
       - name: Build
-        run: hugo
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.ACCESS_TOKEN }}
+          personal_token: ${{ secrets.TOKEN }}
           publish_dir: ./public
           external_repository: xushaoxiao/xushaoxiao.github.io
         #   keep_files: true
