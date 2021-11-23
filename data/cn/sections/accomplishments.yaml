@@ -1,6 +1,6 @@
 # section information
 section:
-  name: সাফল্য
+  name: 成绩
   id: accomplishments
   enable: true
   weight: 7
