@@ -15,7 +15,7 @@ company:
   url: "https://mthreads.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/resume-lance-latest.pdf"
 
 # a summary about you
 summary: 'Cloud service back-end engineer, focusing on the design and development of distributed systems and back-end architecture design, 

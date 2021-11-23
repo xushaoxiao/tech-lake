@@ -15,7 +15,7 @@ company:
   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/resume-lance-latest.pdf"
 
 # a summary about you
 summary: '云服务后端工程师，专注于分布式系统的设计与开发以及后端架构设计，主要用[Golang](https://golang.org/)、[Java](https://dev.java/)和[Python](https://www.python.org/)工作;

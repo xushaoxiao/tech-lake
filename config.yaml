@@ -1,18 +1,18 @@
 baseURL: https://xushaoxiao.github.io/
 
 languageCode: en-us
-title: "Eden"
+title: "Tech Lake"
 theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  cn:
-    languageName: Chinese
-    weight: 1
+  # cn:
+  #   languageName: Chinese
+  #   weight: 1
   en:
     languageName: English
-    weight: 2
+    weight: 1
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -86,8 +86,8 @@ params:
     # Enable comment feature. There, should be only one of them.
     comment:
       enable: true
-      # disqus:
-      #   shortName: toha-example-site
+      disqus:
+        shortName: toha-example-site
       # valine:
       #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
       #   appKey: pVrT3C85KGIuk27t07eh6bUC
@@ -108,9 +108,9 @@ params:
   enableTags: true
 
   # If you want to use different country flag for a language, specify them here.
-  # flagOverwrites:
-  # - languageCode: en
-  #   countryCode: us
+  flagOverwrites:
+  - languageCode: en
+    countryCode: us
 
   # Provide footer configuration.
   footer:
@@ -131,7 +131,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
