@@ -30,7 +30,7 @@ Contents：
 
 ## 五大基本概念
 
-{{<mermaid align="left">}}
+{{< mermaid >}}
 graph LR;
     五大基本概念 --> 主语;
     五大基本概念 --> 谓语;
