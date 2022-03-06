@@ -30,7 +30,7 @@ Contents：
 
 ## 五大基本概念
 
-{{<mermaid align="left>}}
+{{<mermaid align="left">}}
 graph LR;
     五大基本概念 --> 主语;
     五大基本概念 --> 谓语;
@@ -50,7 +50,7 @@ graph LR;
 2. 谓语
 谓语就是动词，动词主要分为`实意动词`和`系动词`
 
-    ```mermaid
+    {{< mermaid >}}
     graph LR;
         谓语动词 --> 1.实意动词;
         谓语动词 --> 2.系动词;
@@ -61,7 +61,7 @@ graph LR;
         2.系动词 --> 和be功能一样的动词;
         3.助动词 --> be,have,has,had,do,did;
         4.情态动词 --> can,may,must,should,would;
-    ```
+    {{< /mermaid >}}
 
     1. 实意动词：具备实际动作意义
     2. 系动词
