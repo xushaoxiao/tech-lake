@@ -44,7 +44,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/living-room-background.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -56,7 +56,11 @@ params:
   # GitHub repo of your site
   gitRepo: https://github.com/xushaoxiao/xushaoxiao.github.io
   # Default branch of your Git repo
-  gitBranch: master
+  gitBranch: main
+
+  # Configure the number of section title visible in the top navbar
+  topNavbar:
+    maxVisibleSections: 5
 
   # Configure various features of this theme
   features:
@@ -88,14 +92,14 @@ params:
       enable: true
       disqus:
         shortName: toha-example-site
-      # valine:
-      #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
-      #   appKey: pVrT3C85KGIuk27t07eh6bUC
-      #   avatar: retro
-      #   placeholder: Share your thought.
-      #   lang: en
-      #   recordIP: true
-      #   enableQQ: true
+      valine:
+        appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
+        appKey: pVrT3C85KGIuk27t07eh6bUC
+        avatar: retro
+        placeholder: Share your thought.
+        lang: en
+        recordIP: true
+        enableQQ: true
       utteranc:
         repo: https://github.com/xushaoxiao/xushaoxiao.github.io
         issueTerm: title
@@ -122,6 +126,7 @@ params:
     navigation:
       enable: true
     # Show/hide "Contact Me" section in the footer. Default is "true".
+      customMenus: true
     contactMe:
       enable: true
     # Show/hide credentials section in the footer. Default is "true".
