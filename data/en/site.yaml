@@ -12,8 +12,8 @@ description: Presented by Shaoxiao Xu.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
+- name: More
+  url: https://github.com/xushaoxiao/
 
 # Specify OpenGraph Headers
 openGraph:
