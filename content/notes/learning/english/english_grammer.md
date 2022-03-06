@@ -1,3 +1,14 @@
+---
+title: English Grammer
+weight: 30
+menu:
+  notes:
+    name: English Grammer
+    identifier: notes-learning-english-grammer
+    parent: notes-learning
+    weight: 30
+---
+
 # Grammer
 
 Grammer study.
