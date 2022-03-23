@@ -11,6 +11,21 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: tesla.com.
+    url: "https://www.tesla.com"
+    location: Shanghai/China
+    # company overview
+    overview: Tesla’s mission is to accelerate the world’s transition to sustainable energy.
+  positions:
+  - designation: Software Engineer
+    start: April 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: March 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Responsible for the design of back-end distributed service architecture.
+
+- company:
     name: Mthreads.com.
     url: "https://www.mthreads.com"
     location: Shanghai/China
@@ -20,7 +35,7 @@ experiences:
   - designation: Software Engineer
     start: April 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: March 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Responsible for the design of back-end distributed service architecture.

@@ -2,7 +2,7 @@
 name: "Shaoxiao Xu"
 nickname: "lance"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "A back-end software engineer, "
+greeting: "A father, A software engineer, "
 image: "images/author/avator.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -11,6 +11,7 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Backend Developer, working at mthreads.com
+  - A father of a child
+  - As Backend Developer, working at tesla.com
   - I love to work with some fun projects
   - Developer and Gamer with passion, @Java and @Golang
