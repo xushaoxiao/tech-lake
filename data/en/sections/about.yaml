@@ -11,14 +11,15 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: mthreads.com.
-  url: "https://mthreads.com"
+  name: tesla.com.
+  url: "https://tesla.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume-lance-latest.pdf"
 
 # a summary about you
-summary: 'Cloud service back-end engineer, focusing on the design and development of distributed systems and back-end architecture design, 
+summary: 'Cloud service back-end engineer, Continue to focus on simplifying backend development through excellent architecture design and system design. 
+focusing on the design and development of distributed systems and back-end architecture design, 
 mainly working with [Golang](https://golang.org/), [Java](https://dev.java/) and [Python](https://www.python.org/). 
 Good at using distributed tools to solve system problems, including [Redis](https://redis.io/) and [Kafka](https://kafka.apache.org/). 
 Familiar frameworks include [SpringBoot](https://spring.io/projects/spring-boot), [Gin](https://gin-gonic.com/), [GRPC](https://grpc.io/), [Dubbo](https://dubbo.apache.org/zh/), etc.'
