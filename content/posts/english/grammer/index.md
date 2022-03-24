@@ -1,12 +1,16 @@
 ---
 title: English Grammer
+date: 2022-03-24T08:06:25+06:00
+description: English Grammer
 weight: 30
 menu:
-  notes:
+  sidebar:
     name: English Grammer
-    identifier: notes-learning-english-grammer
-    parent: notes-learning
+    # identifier: english-grammer
+    parent: english
     weight: 30
+hero: 6101120.jpg
+mermaid: true
 ---
 
 # Grammer
@@ -30,7 +34,7 @@ Contents：
 
 ## 五大基本概念
 
-```mermaid
+{{< mermaid align="left" >}}
 graph LR;
     五大基本概念 --> 主语;
     五大基本概念 --> 谓语;
@@ -42,7 +46,7 @@ graph LR;
     宾语 --> C(放在实意动词之后的成分就叫做宾语);
     表语 --> D(放在系动词之后的成分就叫表语);
     宾补 --> E(补充说明宾语的成分就叫做宾补);
-```
+{{< /mermaid >}}
 
 1. 主语
 放在谓语动词之前的成分就叫做主语。
@@ -50,18 +54,18 @@ graph LR;
 2. 谓语
 谓语就是动词，动词主要分为`实意动词`和`系动词`
 
-    ```mermaid
-    graph LR;
-        谓语动词 --> 1.实意动词;
-        谓语动词 --> 2.系动词;
-        谓语动词 --> 3.助动词;
-        谓语动词 --> 4.情态动词;
-        1.实意动词 --> 具备实际动作意义;
-        2.系动词 --> be动词;
-        2.系动词 --> 和be功能一样的动词;
-        3.助动词 --> be,have,has,had,do,did;
-        4.情态动词 --> can,may,must,should,would;
-    ```
+{{< mermaid align="left" >}}
+graph LR;
+    谓语动词 --> 1.实意动词;
+    谓语动词 --> 2.系动词;
+    谓语动词 --> 3.助动词;
+    谓语动词 --> 4.情态动词;
+    1.实意动词 --> 具备实际动作意义;
+    2.系动词 --> be动词;
+    2.系动词 --> 和be功能一样的动词;
+    3.助动词 --> be,have,has,had,do,did;
+    4.情态动词 --> can,may,must,should,would;
+{{< /mermaid >}}
 
     1. 实意动词：具备实际动作意义
     2. 系动词
@@ -99,14 +103,14 @@ graph LR;
 
     思维导图：
 
-    ```mermaid
+    {{< mermaid align="left" >}}
     graph LR;
         主语+谓语 --> 实意动词;
         主语+谓语 --> 系动词;
         实意动词 --> 宾语;
         系动词 --> 表语;
         宾语 --> 宾补;
-    ```
+    {{< /mermaid >}}
 
 * * *
 
@@ -222,7 +226,7 @@ graph LR;
 
 You are nice but i don't love you.
 
-```mermaid
+{{< mermaid >}}
 graph LR;
     并列连词 --> and;
     and --> A(He helped me and i helped him.);
@@ -230,13 +234,13 @@ graph LR;
     or --> B(You can watch TV or you can do exercise.);
     并列连词 --> but;
     but --> C(You are nice but i don't love you.);
-```
+{{< /mermaid >}}
 
 ## 名词性定语从句的起源与本质
 
 一个句子做了名词的功能就叫做名词性从句。
 
-```mermaid
+{{< mermaid >}}
     graph LR;
         名词性从句 --> 主语从句;
         名词性从句 --> 宾语从句;
@@ -254,7 +258,7 @@ graph LR;
         同位语从句 -- 陈述句 --> D1[变形规则:That + 陈述句];
         同位语从句 -- 一般疑问句 --> D2(变形规则:Whether/If + 一般疑问句陈述语序);
         同位语从句 -- 特殊疑问句 --> D3(变形规则:特殊疑问词 + 特殊疑问句陈述语序);
-```
+{{< /mermaid >}}
 
 ### 规则
 
@@ -262,7 +266,7 @@ graph LR;
 
     That Yaoming is tall is a fact.
 
-    ```mermaid
+    {{< mermaid >}}
     graph LR;
         名词性从句 -- 陈述句 --> 主语从句;
         主语从句 --> A(That Yaoming is tall is a fact.);
@@ -272,13 +276,13 @@ graph LR;
         表语从句 --> C(My option is that Yaoming is tall.);
         名词性从句 -- 陈述句 --> 同位语从句;
         同位语从句 --> D(The option that Yaoming is tall is right.);
-    ```
+    {{< /mermaid >}}
 
 2. 变化规则：if/whether + 一般疑问句的陈述语序 = 名词
 
     一般疑问句：Will you come to Bejing tomorrow?
 
-    ```mermaid
+    {{< mermaid >}}
     graph LR;
         名词性从句 -- 一般疑问句 --> 主语从句;
         主语从句 --> 1.你明天是否来北京对我来说很重要.;
@@ -292,13 +296,13 @@ graph LR;
         名词性从句 -- 一般疑问句 --> 同位语从句;
         同位语从句 --> 4.你明天是否来北京这个问题让我很烦心.;
         同位语从句 --> D(The question whether you will come to Bejing tomorrow bothers me.);
-    ```
+    {{< /mermaid >}}
 
 3. 变化规则：陈述语序的特殊疑问句 = 名词
 
     特殊疑问句：Why are you so clever.
 
-    ```mermaid
+    {{< mermaid >}}
     graph LR;
         名词性从句 -- 特殊疑问句 --> 主语从句;
         主语从句 --> 1.你为什么这么聪明是一个谜.;
@@ -312,11 +316,11 @@ graph LR;
         名词性从句 -- 特殊疑问句 --> 同位语从句;
         同位语从句 --> 4.你为什么这么聪明这个问题让我感兴趣.;
         同位语从句 --> D(The question why you are so clever interest.);
-    ```
+    {{< /mermaid >}}
 
 4. 特殊疑问词
 
-    ```mermaid
+    {{< mermaid >}}
        graph LR;
        特殊疑问词 --> 人-2;
        特殊疑问词 --> 物-2;
@@ -330,7 +334,7 @@ graph LR;
        特殊-3 --> Where;
        特殊-3 --> Why;
        How-1 --> How;
-    ```
+    {{< /mermaid >}}
 
 >Tips:
 >
@@ -395,7 +399,7 @@ I like that beautiful `girl` `who` can speak good English.
 
 >从句连词：who、whom、whose、that、which、as、when、where、why.
 
-```mermaid
+{{< mermaid >}}
     graph LR;
     形容词性从句 --> 修饰人;
     形容词性从句 --> 修饰物;
@@ -418,7 +422,7 @@ I like that beautiful `girl` `who` can speak good English.
     when -- 关系副词 --> G(I can never forget the day when i met her.);
     where -- 关系副词 --> H(I can never forget the place where i met her.);
     why -- 关系副词 --> I(I can never forget the reason why she dumped me.);
-```
+{{< /mermaid >}}
 
 >Tips:
 >
@@ -535,7 +539,7 @@ I love you as a mouse loves rice.
 
 ### 副词性从句
 
-```mermaid
+{{< mermaid >}}
     graph LR;
     状语从句的类型 --> 1.时间;
     状语从句的类型 --> 2.地点;
@@ -555,7 +559,7 @@ I love you as a mouse loves rice.
     7.比较 -- 比较连词than --> G(You look younger than you are.);
     8.让步 -- 让步连词although--> H(Although he studied hard, he didn't pass the examination.);
     9.方式 -- 方式as --> I(You must try to hold the tool as i do.);
-```
+{{< /mermaid >}}
 
 ### 例句5
 
@@ -613,7 +617,7 @@ I love you as a mouse loves rice.
 
 左二右六原则.
 
-```mermaid
+{{< mermaid >}}
 graph LR;
     限定词 --> 核心名词;
     形容词 --> 核心名词;
@@ -625,7 +629,7 @@ graph LR;
     核心名词 --> D(4. 定语从句);
     核心名词 --> E(5. 形容词短语) --> E1(beautiful enough);
     核心名词 --> F(6. 同位语从句);
-```
+{{< /mermaid >}}
 
 ### 限定词
 
@@ -691,7 +695,7 @@ graph LR;
 
 规则：`主+谓+宾，悬挂X` 或者 `悬挂X，主+谓+宾`，悬挂结构其实伴随状语
 
-```mermaid
+{{< mermaid >}}
 graph LR;
     X --> A(1. n.);
     X --> B(2. adj.);
@@ -699,7 +703,7 @@ graph LR;
     X --> D(4. doing/when doing/by doing/after doing/before doing);
     X --> E(5. done);
     X --> F(6. having done);
-```
+{{< /mermaid >}}
 
 1. n. + svo
 
