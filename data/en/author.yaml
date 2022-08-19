@@ -2,7 +2,7 @@
 name: "Shaoxiao Xu"
 nickname: "lance"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "A father, A software engineer, "
+greeting: "A software engineer, "
 image: "images/author/avator.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
