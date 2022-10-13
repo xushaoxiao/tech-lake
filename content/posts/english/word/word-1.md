@@ -76,7 +76,7 @@ mermaid: true
   - -ed 形容词后缀；
   - -action 名词后缀 = -ate 形容词或动词后缀 + -ion 名词后缀；
 
-【单词】\
+【单词】
 1. `核心词`
   - pro`vinc`e [ˈprɑːvɪns] n. 省；领域；职权 【词频3249】【B1M1】\
     【pro- 向前 + -vinc- 征服--占有--统治--管理 + -e名词后缀，\
@@ -92,4 +92,19 @@ mermaid: true
     【provincial + -ily 名词后缀】
   - pro`vinc`ialism [prəˈvɪnʃəlɪzəm] n. 方言；地方风格；乡下习气 【词频36027】\
     【provincial + -ism 名次后缀，表······主义】
+  - `vict`or [ˈvɪktər] n. 胜利者 【词频13052】
+    【-vict-胜利 + -or=-er 名词后缀 \
+     work--work + -er 名词后缀，表人】
+  - `vict`ory [ˈvɪktəri] n. 胜利；成功；克服 【词频1467】【B5M5】
+    【-vict-胜利 + -ory 名次或形容词后缀】
+  - `vict`orious [vɪkˈtɔːriəs] adj. 胜利的；凯旋的 【词频11883】
+    【victor + -i- 连字符 + -ous 形容词后缀 \
+     danger n. 危险 -- dangerous adj. 危险的 \
+     fame n. 著名 -- famous adj. 著名的】
+  - `vict`oriously [vɪkˈtɔːriəsli] adv. 获胜地；凯旋归来地 【词频46679】
+    【victorious + -ly 副词后缀】
+  - `Vict`orian [vɪkˈtɔːriən] n. 维多利亚时代; adj. 维多利亚女王时代的 【词频23683，6333】
+    【Victoria 胜利女王 + -i- 连字符 + -an 名词或形容词后缀 \
+      洲：Asia--Asian; Afria--Afrian; America--American; Europe--European ...】
+  - 
   
