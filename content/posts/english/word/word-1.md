@@ -77,8 +77,8 @@ mermaid: true
   - -action 名词后缀 = -ate 形容词或动词后缀 + -ion 名词后缀；
 
 【单词】
-1. `核心词`
-  - pro`vinc`e [ˈprɑːvɪns] n. 省；领域；职权 【词频3249】【B1M1】\
+1. province
+  - `核心词`: pro`vinc`e [ˈprɑːvɪns] n. 省；领域；职权 【词频3249】【B1M1】\
     【pro- 向前 + -vinc- 征服--占有--统治--管理 + -e名词后缀，\
      典故：古罗马时期将征服后的土地划分为行政省份，除了中央以为最大的行政区。\
      state n. 国家】
@@ -103,8 +103,53 @@ mermaid: true
      fame n. 著名 -- famous adj. 著名的】
   - `vict`oriously [vɪkˈtɔːriəsli] adv. 获胜地；凯旋归来地 【词频46679】
     【victorious + -ly 副词后缀】
-  - `Vict`orian [vɪkˈtɔːriən] n. 维多利亚时代; adj. 维多利亚女王时代的 【词频23683，6333】
+2. Victorian
+  - `核心词`: `Vict`orian [vɪkˈtɔːriən] n. 维多利亚时代; adj. 维多利亚女王时代的 【词频23683，6333】
     【Victoria 胜利女王 + -i- 连字符 + -an 名词或形容词后缀 \
       洲：Asia--Asian; Afria--Afrian; America--American; Europe--European ...】
-  - 
-  
+  - `Vict`orian-era n. 维多利亚时代 【词频37086】
+    【合成词：era n. 时代】
+  - Victorian-style n. 维多利亚风格 【词频38131】
+    【合成词】
+  - late-Victorian adj. 维多利亚晚期 【词频51544】
+    【合成词：late】
+  - neo-Victorian adj. 新维多利亚的
+    【-neo- 新 + Victorian】
+3. victim
+  - `核心词`: `vict`im [ˈvɪktɪm] n. 受害者 【词频1064】【B4M4】
+    【-vict- 征服--俘虏--罪人--受害者 + -im 名词后缀，表人】
+  - victimless [ˈvɪktɪmləs] adj. 不侵害他人的，无受害人的（犯罪行为等）
+    【victim + -less 形容词后缀，表否定 \
+      hope -- hopeless adj. 绝望的 \
+      home -- homeless adj. 无家可归的 \
+      care -- careful -- carefulless adj. 粗心的
+     】
+  - victimize [ˈvɪktɪmaɪz] vt. 使受害；使牺牲；欺骗 【词频10957】
+    【victim + -ize 动词后缀 \
+      -vict- 征服 + -im + ize 动词后缀
+      leave vt 离开--留下（仍在某处）【词源决定起源--含义】. \
+      stay vi. 停留；坚持；暂住；停下；vt. 坚持；暂住；抑制；n. 逗留；停止；支柱 \
+     】
+  - victimized [ˈvɪktɪmaɪz] vt. 使受害；使牺牲；欺骗（动词的过去式和过去分词） 【词频27113】
+    【victimize + -ed 形容词后缀，此处表过去式和过去分词】
+  - victimization [ˌvɪktɪməˈzeɪʃn] n. 牺牲；欺骗 【词频10715】
+    【victimze + -ate + -ion 名词后缀 = -ation 名词后缀 \
+      多个后缀：词性只由最后一个决定 \
+     】
+  - victimizer ['viktimaizə] n. 施害者【词频36500】
+    【victimize + -er 名词后缀，表人】
+4. convince
+  - `核心词`: con`vinc`e [kənˈvɪns] vt. 说服；使确信 【词频2050】
+    【con- 强调，共同 + -vinc- 征服--是人信服--说服 + -e 动词后缀】
+  - con`vinc`ed [kənˈvɪnst] adj. 确信的，信服的 【词频3742】【X8M4】
+    【convince + -ed 形容词后缀】
+  - uncon`vinc`ed [ˌʌnkənˈvɪnst] adj. 不信服的；怀疑的 【词频20482】
+    【un- 否定 + convinced】
+  - con`vinc`ing [kənˈvɪnsɪŋ] adj. 令人信服的；有说服力的 【词频6217】
+    【convince + -ing 形容词后缀，表令......的】
+  - uncon`vinc`ing [ˌʌnkənˈvɪnsɪŋ] adj. 不足以令人信服的 【词频25204】
+    【un- 否定 + convincing】
+  - con`vinc`ingly [] adv. 令人信服地；有说服力地 【词频14175】
+    【convincing + -ly 副词后缀】
+  - uncon`vinc`ingly [] adv. 不足以令人信服地 【词频40852】
+    【un- 否定 + convincingly】
