@@ -139,17 +139,47 @@ mermaid: true
   - victimizer ['viktimaizə] n. 施害者【词频36500】
     【victimize + -er 名词后缀，表人】
 4. convince
-  - `核心词`: con`vinc`e [kənˈvɪns] vt. 说服；使确信 【词频2050】
+  - `核心词`: con`vinc`e [kənˈvɪns] vt. 说服；使确信 【词频2050】\
     【con- 强调，共同 + -vinc- 征服--是人信服--说服 + -e 动词后缀】
-  - con`vinc`ed [kənˈvɪnst] adj. 确信的，信服的 【词频3742】【X8M4】
+  - con`vinc`ed [kənˈvɪnst] adj. 确信的，信服的 【词频3742】【X8M4】\
     【convince + -ed 形容词后缀】
-  - uncon`vinc`ed [ˌʌnkənˈvɪnst] adj. 不信服的；怀疑的 【词频20482】
+  - uncon`vinc`ed [ˌʌnkənˈvɪnst] adj. 不信服的；怀疑的 【词频20482】\
     【un- 否定 + convinced】
-  - con`vinc`ing [kənˈvɪnsɪŋ] adj. 令人信服的；有说服力的 【词频6217】
+  - con`vinc`ing [kənˈvɪnsɪŋ] adj. 令人信服的；有说服力的 【词频6217】\
     【convince + -ing 形容词后缀，表令......的】
-  - uncon`vinc`ing [ˌʌnkənˈvɪnsɪŋ] adj. 不足以令人信服的 【词频25204】
+  - uncon`vinc`ing [ˌʌnkənˈvɪnsɪŋ] adj. 不足以令人信服的 【词频25204】\
     【un- 否定 + convincing】
-  - con`vinc`ingly [] adv. 令人信服地；有说服力地 【词频14175】
+  - con`vinc`ingly [kənˈvɪnsɪŋli] adv. 令人信服地；有说服力地 【词频14175】\
     【convincing + -ly 副词后缀】
-  - uncon`vinc`ingly [] adv. 不足以令人信服地 【词频40852】
+  - uncon`vinc`ingly [ˌʌnkənˈvɪnsɪŋli] adv. 不足以令人信服地 【词频40852】\
     【un- 否定 + convincingly】
+5. convict
+  - `核心词`: con`vict` [kənˈvɪkt] n. 囚犯 vt. 证明......有罪；宣告......有罪 【词频3706，12076】【X7M3】\
+    【con- 强调 + -vict- 征服--俘虏--囚犯，罪人--战胜者对战败者裁定】
+  - conviction [kənˈvɪkʃn] n. 定罪
+  - ex-convict [ˌeks'kənˈvɪkt] n. 从前曾被判刑的人；[法]前科犯 【词频31790】\
+    【ex- 前任 + convict \
+      ex-boyfriend 前男友 \
+      ex-president 前总统 \
+      ex-wife 前妻 \
+     】
+  - post-conviction [poʊst-kənˈvɪkʃn] n. 定罪后救济 【词频47805】\
+    【post- 后 + conviction】
+  - evict [ɪˈvɪkt] vt. 驱逐；逐出 【词频12684】\
+    【e- 向外 + -vict- 征服--占领--驱逐】
+  - eviction [ɪˈvɪkʃn] n. 逐出；赶出；收回 【词频16890】\
+    【evict + -ion 名词后缀】
+  - evicted [ɪˈvɪktɪd] adj. 被驱逐的 【词频54954】\
+    【evict + -ed 形容词后缀】
+  - evince [] vt. 表明，表示；引起 【词频19431】\
+    【e-向外 + -vinc- 胜利--表明，显示 + -e 动词后缀】
+  - vincible [ɪˈvɪns] adj. 可征服的，易克服的 \
+    【-vinc- 征服 + ible = -able 形容词后缀，表能......的】
+  - invincible [ɪnˈvɪnsəb(ə)l] adj. 无敌的；不能征服的 【词频15520】\
+    【in- 否定 + vincible】
+  - invincibility [ɪnˌvɪnsəˈbɪləti] n. 无敌；不可战胜 【词频28489】\
+    【invincible + -i- 连字符 + -ty 名次后缀 \
+      常用符合后缀：-ible + -i- + -ty = 把l和e交换，然后e变成i加ity = -ibility = -ability \
+     】
+  - vincristine [vɪnˈkrɪsˌtin] n. [药]长春新碱（一种抗肿瘤药） 【词频5822】\
+    【-vinc- 征服--抗击 + -rist-肿瘤 + -ine 名词后缀】
