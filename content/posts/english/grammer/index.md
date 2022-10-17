@@ -338,11 +338,11 @@ graph LR;
 
 >Tips:
 >
->>1. 在句子中遇到“抽象名词”时，应条件反射地想到后面可能跟了同位语从句，常跟同位语从句的抽象名词有：\
+>>1. 在句子中遇到“抽象名词”时，应条件反射地想到后面可能跟了同位语从句，常跟同位语从句的抽象名词有：  
 >>belief(信念)、fact(事实)、idea(主意)、problem(问题)、information(消息)、conclusion(结论)、decision(决定)、news(新闻)、thought(想法)、explanation(解释)等
 >>
->>2. 当同位语从句充当主语过长时，同位语从句和它所修饰的名词常常隔开（避免`头重脚轻`，比如It's a fact that...）。\
->>An idea came to her that she cloud solve the problem in another way.\
+>>2. 当同位语从句充当主语过长时，同位语从句和它所修饰的名词常常隔开（避免`头重脚轻`，比如It's a fact that...）。  
+>>An idea came to her that she cloud solve the problem in another way.  
 >>她想到她可以用另一种方法解决问题。
 
 ### 例句2
@@ -428,30 +428,30 @@ I like that beautiful `girl` `who` can speak good English.
 >
 >>1. as不可指代具体的某个词，一般指某事件，其引导的定语从句可以至于句首（其他定语从句不可以），也可以至于句末。as在定语从句中通常翻译为`正如`。
 >>  
->>      e.g. A is planned, we got there before eight. (正如计划，我们在八点之前到那了。)\
+>>      e.g. A is planned, we got there before eight. (正如计划，我们在八点之前到那了。)  
 >>      The won the game, as we had expected. (他们赢得了比赛，正如我们预料的那样。)
 >>
->>2. 固定搭配:\
->>      such/so...as...\
->>      the same...as...\
+>>2. 固定搭配:  
+>>      such/so...as...  
+>>      the same...as...  
 >>      reason + why
 >>
 >>      e.g. He is not such a fool as he looks. (他并没有看上去那么傻。)
 >>
 >>3. that不出现在包含逗号`,`的定语从句中；也不和介词搭配使用。
 >>
->>4. 逗号`,`出现的定语从句通常翻译为两句话。\
->>      4.1. I like the girl who is beautiful. (我喜欢这个漂亮的女孩)\
+>>4. 逗号`,`出现的定语从句通常翻译为两句话。  
+>>      4.1. I like the girl who is beautiful. (我喜欢这个漂亮的女孩)  
 >>      4.2. I like the girl, who is beautiful. (我喜欢这个女孩，因为她漂亮)
 >>
 >>5. that既可以指代人，也可以指代物。通常that可以与who、whom和which互换。
 >>
 >>6. 关系副词when、where、why使用规则，右边必须紧跟指代时间、地点和reason，右边必须接一个完整的句子（符合五大基本句型且意义完备的句子）。
 >>
->>7. 当`way`和`time`做定语从句的先行词时，关系代词常常省略。\
->>      7.1. I don't like the way (that/in which) he treated me.\
->>      7.2. The way (that/in which) he explained to us is quite simple.\
->>      7.3. This is the time (that) i come here.\
+>>7. 当`way`和`time`做定语从句的先行词时，关系代词常常省略。  
+>>      7.1. I don't like the way (that/in which) he treated me.  
+>>      7.2. The way (that/in which) he explained to us is quite simple.  
+>>      7.3. This is the time (that) i come here.  
 >>      7.4. This is the last time (that) i shall give you a lesson.
 >>
 
