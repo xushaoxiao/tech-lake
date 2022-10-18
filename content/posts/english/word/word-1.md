@@ -259,6 +259,48 @@ mermaid: true
     【form 格式--版 + -e 名词后缀】
   - nonformal [ˌnɒn-ˈfɔːrm(ə)l] adj. 非正式的 【词频36701】  
     【non- 否定 = none = no one + formal】
+  - formed [fɔːrmd] adj. 成形的，成形 【词频38313】  
+    【form + -ed 形容词后缀】
+  - well-formed [wel-fɔːrmd] adj. 身材苗条的；结构良好的；符合语法规则的 【词频38602】  
+    【合成词：well + formed】
+  - formalization [ˌfɔːrmələˈzeɪʃn] n. 形式化；礼仪化 【词频38747】  
+    【formalize + -ation 名词后缀】
+  - formalist [ˈfɔːrməlɪst] n. 拘泥形式的人；形式主义者 adj. 形式主义的；死板的 【词频45577】  
+    【formal + -ist 名词后缀，表人，也表......主义】
+  - formalistic [ˌfɔrmlˈɪstɪk] adj. 形式主义的；呆板的 【词频39388】  
+    【formalist + -ic 形容词后缀】 
+  - forming [ˈfɔːmɪŋ] n. 形成 【词频40092】  
+    【form + -ing 动名词】
+  - semiformal [ˌsemaɪˈfɔməl] adj. 半正式的 【词频44596】  
+    【semi- 半 + formal】
+  - habit-forming [ˈhæbɪt-fɔːrmɪŋ] adj. 易上瘾的；易成习惯的 【词频45309】  
+    【合成词：habit n. 习惯 + forming --形成习惯--上瘾】
+  - formlessness [ˈfɔːrmləsnəs] n. 无形 【词频46501】 Assume Formlessness 无招胜有招  
+    【formless + -ness 名词后缀】
+  - long-form [lɔːŋ-fɔːrm] n. 详细格式；[计]长格式 【词频48598】  
+    【合成词：long + form】
+  - newly-formed [ˈnuːli-fɔːrmd] adj. 成形的，成形 【词频48931】  
+    【合成词：new + -ly 副词后缀 + form + -ed 形容词后缀】
+  - anti-reform [ˈænti-rɪˈfɔːrm] adj. 反传统形式的 【词频51454】  
+    【anti- 反 + reform = re- 再次 + form 形成】
+  - multiform [ˈmʌltəˌfɔːrm] adj. 多样的；多种形式的 【词频57557】  
+    【multi- 多 + form 形式 -- 多样式】
+  - informal-sector [ɪnˈfɔːrm(ə)l-ˈsektər] n. 非正式部门 【词频59257】  
+    【合成词：sector = -sect- 切 -- 划分 -- 部分 -- 部门 + -or 名词后缀，表物】
+  - smog- forming [smɑːɡ-ˈfɔːmɪŋ] adj. 形成烟雾的 【词频56239】  
+    【合成词：smog + forming】
+  - cuneiform [ˈkjuːnɪfɔːrm] adj. 楔形的；楔形文字的；楔状骨的；n. 楔形文字；楔状骨 【词频36587】   
+    【合成词：cunei [kjuːˈnaɪ] n. 楔叶 + -form】
+  - cruciform [ˈkruːsɪfɔːrm] adj. 十字形的；十字架状的 n. 十字架 【词频37117】  
+    【合成词：-cruc- 十字，酷刑 + -i- + -form-】
+  - spongiform [ˈspʌndʒɪfɔːrm] adj. 海绵状组织的 【词频38336】  
+    【】
+  - half-formed [] adj. 办成型的 【词频43494】  
+    【】
+  - short-form [] n. 简易格式 【词频43731】  
+    【】
+  - pinform [] adj. 梨形的 【55691】  
+    【】
 
 
 
