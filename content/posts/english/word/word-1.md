@@ -294,17 +294,87 @@ mermaid: true
   - cruciform [ˈkruːsɪfɔːrm] adj. 十字形的；十字架状的 n. 十字架 【词频37117】  
     【合成词：-cruc- 十字，酷刑 + -i- + -form-】
   - spongiform [ˈspʌndʒɪfɔːrm] adj. 海绵状组织的 【词频38336】  
+    【合成词：spong n. 海绵 + -i- + -form-】
+  - half-formed [hæf-fɔːrmd] adj. 半成型的 【词频43494】  
+    【合成词：half + formed】
+  - short-form [ʃɔːrt-fɔːrm] n. 简易格式 【词频43731】  
+    【合成词：short + form】
+  - piriform ['pɪrəfɔːm] adj. 梨形的 【55691】  
+    【合成词：-pir = pear + -i- + -form-】
+  - inform [ɪnˈfɔːrm] vt. 通知；告诉；报告 【词根2190】  
+    【in- 使动 + form 形成，形式 -- 收集信息 -- 通告】
+  - informed [ɪnˈfɔːrmd] adj. 消息灵通的；见多识广的 【词频7870】  
+    【inform + -ed 形容词后缀，被通知的 -- 消息多 -- 消息灵通 -- 包打听】
+  - uninformed [ˌʌnɪnˈfɔːrmd] adj. 无知的；未被通知的   
+    【un- 否定 + informed】
+  - informant [ɪnˈfɔːrmənt] n. 告密者；提供消息的 【词频7217】
+    【inform + -ant 名词后缀，表人】
+  - informer [ɪnˈfɔːrmər] n. 告密者；通知者 【词频18229】  
+    【inform + -er 名词后缀，表人】
+  - informate [ˌɪnfəˈmeɪt] vt. 为...提供消息；告知；通知    
+    【inform + -ate 动词后缀】
+  - information [ˌɪnfərˈmeɪʃ(ə)n] n. 信息 【词频314】【B1M1】  
+    【inform + -ation = -ate + -ion 名词后缀】
+  - informative [ɪnˈfɔːrmətɪv] adj. 情报的 【词频11051】   
+    【informate + -ive 形容词后缀】
+  - informational [ˌɪnfərˈmeɪʃənl] adj. 情报的；报告的 【词频14000】  
+    【information + -al 形容词后缀】
+  - bioinformatician [ˌbaɪəʊɪnfəməˈtɪʃ(ə)n] n. 生物信息学（研究）者【B5M2】   
+    【-bio- 生命，生物 + informate + -ic + -i- + -an 名词后缀，表人】
+  - disinformation [ˌdɪsˌɪnfərˈmeɪʃn] n. 故意的假情报；虚假信息【词频21908】   
+    【dis- 分离 -- 否定 + information】
+  - well-informed [] adj. 消息灵通的；见多识广的；熟悉的；博学的 【词频22430】    
+    【合成词：well + informed】
+  - misinform [] vt. 误传；提供错误信息 【词频24012】    
+    【mis- 错误 + inform，   
+      mistake = mis- 错误 + take
+     】
+  - misinformed [] vt. 误传；提供错误信息 【词频45452】   
+    【misinform + -ed 表过去式和过去分词】
+  - misinformation [] n. 误报；错误的消息 【词频15379】   
+    【mis- 错误 + information】
+  - informing [] adj. 增长见闻的；提供情报的；鼓舞的 【词频32956】   
+    【inform + -ing 形容词后缀，表令......的  
+      -ing 表令......的，修饰主语为物，和 -ed 表......的，修饰主语为人；的区别  
+      interest -- interesting -- intereted   
+      excite -- exciting -- excited  
+      ...
+     】
+  - information-based [] adj. 信息化的；以信息为基础的 【词频39582】   
+    【合成词：based adj. 有根基 = base + -ed 形容词后缀】
+  - information-gathering [] n. 信息收集；情况收集 【词频42670】   
+    【合成词：gather vt. 采集 + -ing 动名词后缀】
+  - uninformative [] adj. 不提供信息的；不增长见闻的 【词频43128】   
+    【un- 否定 + informative】
+  - informatics [] n. 信息学；情报学（复数用作单数）【词频44208】   
+    【informate + -ic + -s 复数名词后缀 = ics 学术名词后缀】
+  - information-rich [] adj. 信息丰富的 【词频45727】   
+    【information + rich】 
+  - information-age [] n. 信息时代 【词频48610】   
+    【information + age】
+  - bioinformatics [ˌbaɪəʊˌɪnfəˈmætɪks] n. 生物信息学；生物资讯 【词频51042】  
+    【-bio- 生物 + informate + -ics 学术名词后缀】
+  - better-informed [ˈbetər ɪnˈfɔːrmd] adj. 消息灵通的，更明智的 【词频51860】  
+    【合成词：better + informed】
+  - information-sharing [ˌɪnfərˈmeɪʃ(ə)n ˈʃerɪŋ] n. 信息共享；咨询分享 【词频53392】  
+    【合成词：share vt. 分享 + -ing 动名词后缀】
+  - informed-consent [ɪnˈfɔːrmd kənˈsent] n. 知情同意，知会同意；知后同意 【词频54473】  
+    【合成词：consent vi. 同意；赞成；答应 n. 同意；一致；赞成】
+  - best-informed [] adj. 消息灵通的 【词频57826】  
+    【合成词】
+  - informativeness [] n. 信息量；忠诚度 【词频59407】   
+    【informative + -ness 名词后缀】
+  - information-processing [ˌɪnfərˈmeɪʃ(ə)n prɑːsesɪŋ] n. 信息处理；信息加工；情报整理 【词频34525】  
+    【合成词：pro- 向前 + -cess- 走 -- 行进，过程 -- 步骤 + -ing 动名词后缀  
+      process vt. 处理；加工 n. 过程；进行；方法，步骤；作用；程序；推移 vi. 队列前进 adj. 经过特殊加工（或处理）的
+     】
+  - information-technology [] n. [计][通信] 信息技术 【词频35637】  
+    【合成词：-techn- 艺术，技术 + -o- + -logy 名词后缀，表......学】
+  - ill-informed [] adj. 所知不多的；消息不灵通的 【词频34109】  
+    【合成词：ill adj. 病的 -- 无能 + informed】
+  - perform [] vi. 表现 vt. 预先形成 n. 粗加工的成品 【词频954，45736】   
     【】
-  - half-formed [] adj. 办成型的 【词频43494】  
-    【】
-  - short-form [] n. 简易格式 【词频43731】  
-    【】
-  - pinform [] adj. 梨形的 【55691】  
-    【】
-
-
-
-
+  
 
 
 
