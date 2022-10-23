@@ -5,7 +5,7 @@ description: 累计解析词汇量-1598
 weight: 30
 menu:
   sidebar:
-    name: English Word
+    name: English Word [-vinc-, -vict-, -form-]
     identifier: english-word
     parent: english
     weight: 30
@@ -372,9 +372,16 @@ mermaid: true
     【合成词：-techn- 艺术，技术 + -o- + -logy 名词后缀，表......学】
   - ill-informed [] adj. 所知不多的；消息不灵通的 【词频34109】  
     【合成词：ill adj. 病的 -- 无能 + informed】
-  - perform [] vi. 表现 vt. 预先形成 n. 粗加工的成品 【词频954，45736】   
+  - perform [pərˈfɔːrm] vi. 表现 vt. 预先形成 n. 粗加工的成品 【词频954，45736】   
     【】
-  
+  - performance [] n. 表演 【词频675】【B4M3】   
+    【】
+  - performative [] adj. 表述行为的；n. 述行成分，述行语 【词频21489】  
+    【】
+  - performer [] n. 表演者 【词频3993】  
+    【】
+  - performing [] adj. 表演的；履约的 【词频8594】  
+    【】
 
 
 
