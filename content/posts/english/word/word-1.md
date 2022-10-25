@@ -373,19 +373,74 @@ mermaid: true
   - ill-informed [] adj. 所知不多的；消息不灵通的 【词频34109】  
     【合成词：ill adj. 病的 -- 无能 + informed】
   - perform [pərˈfɔːrm] vi. 表现 vt. 预先形成 n. 粗加工的成品 【词频954，45736】   
+    【per- 完全，贯穿 + -form- 形成 -- 完全形成 -- 展现  
+      perfect = per- 完全，贯穿 + -fect- 做 -- 完全做完 -- 完美，完成  
+        adj. 完美的；最好的；精通的 vt. 使完美；使熟练 n. 完成式  
+     】
+  - performance [pərˈfɔːrməns] n. 表演 【词频675】【B4M3】   
+    【perform + -ance 名词后缀  
+      充数说明：n. 性能；绩效；表演；执行；表现 
+     】
+  - performative [pərˈfɔːrmətɪv] adj. 表述行为的；n. 述行成分，述行语 【词频21489】  
+    【perform + -ate + -ive 形容词或名词后缀】
+  - performer [pərˈfɔːrmər] n. 表演者 【词频3993】  
+    【perform + -er 名词后缀，表人】
+  - performing [pərˈfɔːrmɪŋ] adj. 表演的；履约的 【词频8594】  
+    【perform + -ing 形容词后缀】
+  - preformed [] adj. 预成型的，预制成的 【词频37089】  
+    【pre- 在前 + form 形成 -- 之前形成 -- 预先形成 + -ed 形容词后缀】
+  - outperform [] vt. 胜过；做得比......好 【词频13127】  
+    【合成词：out 外边 -- 超过 + perform】
+  - high-performance [] adj. 高性能的；高效能的 【词频14654】
+    【合成词： high + performance】
+  - high-performing [] n. 高绩效；高性能 【词频36787】  
+    【合成词：high + perform + -ing 名词后缀】
+  - performance-enhancing [] adj. 增强性能的 【词频20644】  
+    【合成词：enhance vt. 提高；加强；增加 + -ing 形容词后缀，令......的】
+  - performance-based [] adj. 绩效为基础的 【词频24058】  
+    【合成词：based adj. 基础的】
+  - best-performing [] n. 表现最好的 【词频36290】  
+    【合成词】
+  - performance-oriented [pərˈfɔːrməns ˈɔːrientɪd] 以绩效为导向；绩效导向；绩效型 【词频40570】 
+    【合成词：oriented adj. 导向的；定向的；以......为方向的  
+            -ori- 升起 -- 太阳升起 -- 开始，初始 + -ent + -ed 形容词后缀  
+            orient vt. 使适应；确定方向；使朝东 n. 东方；东方诸国 adj. 东方的 vi. 向东 】
+  - performance-related [pərˈfɔːrməns rɪˈleɪtɪd] adj. 性能相关的；绩效相关的 【词频41165】  
+    【合成词：related adj. 有关系的；有关联的；讲述的，叙述的 
+            re- 反复，多次 + -lat- 拿  
+            relate vt. 相关联 + -ed 形容词后缀  
+            relative  
+            relation  
+            relationship 【friend + -ship 抽象名词后缀】  
+            translate vt. 翻译 = trans- 改变 + -lat 拿 -- 改变 -- 翻译 + -e 动词后缀】
+  - pay-for-performance [] n. 绩效薪酬 【词频】  
+    【合成词】
+  - performativity [] n. 表演性 【词频44622】  
+    【perform + -ate + -ive + -i- + -ty 名词后缀】
+  - underperforming [ˌʌndərpərˈfɔːrming] vt. （股票等）运作差于（一般市场价格） vi. 表现不佳；工作不如预期（或同行） 【词频46572】  
+    【under- 在......下 -- 否定 + perform + -ing 动词后缀】
+  - underperformance [] n. 新股弱势；新股偏弱现象 【词频47795】  
+    【under- + perform + -ance 名词后缀】
+  - non-performing [] adj. 不履约 【词频48077】  
+    【non- 否定 + perform + -ing 形容词后缀】
+  - worst-performing [] adj. 表现最差的 【词频49132】  
+    【合成词】
+  - pre-performmance [] n. 性能；绩效；表演；执行；表现 【词频52598】  
+    【pre- 在前 + performance】
+  - nonperformance [ˌnɒnpəˈfɔːməns] 不履行，不实行 【词频53073】  
+    【non- 否 + performance】
+  - post-performance [] n. 岗位绩效 【词频56011】   
+    【post- 后 + performance】
+  - poor-performing [] adj. 劣质的 【词频56727】   
+    【poor + performing】
+  - low-performing [] adj. 薄弱的；低效率的 【词频32714】  
+    【low + performing】
+  - top-performing [] adj. 表现最好的；顶级表演的 【词频33216】   
+    【top + performing】
+  - formula [] n. 法则；原则；数学公式 【词频】  
     【】
-  - performance [] n. 表演 【词频675】【B4M3】   
+  - formulate [] vt. 规划；用公式表示 【词频5918】  
     【】
-  - performative [] adj. 表述行为的；n. 述行成分，述行语 【词频21489】  
-    【】
-  - performer [] n. 表演者 【词频3993】  
-    【】
-  - performing [] adj. 表演的；履约的 【词频8594】  
-    【】
-
-
-
-
 
   - transform [trænsˈfɔːrm] v. 转化，转变，使改变外观（或性质）；使改变 【词频2199】【X8M3】【X10M2】  
     【trans- 改变 + -form- 形式--改变形式--变形】
